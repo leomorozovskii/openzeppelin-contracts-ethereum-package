@@ -1,6 +1,6 @@
 pragma solidity ^0.5.0;
 
-import "../../upgrades/contracts/Initializable.sol";
+import "github.com/leomorozovskii/openzeppelin-sdk/blob/master/packages/lib/contracts/Initializable.sol";
 import "./IERC721.sol";
 
 /**
